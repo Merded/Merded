@@ -1,0 +1,24 @@
+baseURL: https://merded.xyz/
+languageCode: en-us
+title: Merededdo
+theme: PaperMod
+
+params:
+  env: production
+  disableThemeToggle: true
+  HideFooter: true
+  socialIcons:
+      - name: Discord
+        url: https://discord.com/users/307774635204804608
+      - name: Twitter
+        url: https://twitter.com/MerdedSpade
+      - name: Telegram
+        url: https://t.me/Merededdo
+      - name: github
+        url: https://github.com/Merded
+      - name: email
+        url: 'mailto:merdedok@gmail.com'
+  description: "Yasu Ono"
+  profileMode:
+    enabled: true
+    title: Yasu Ono
