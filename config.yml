@@ -10,6 +10,8 @@ params:
   socialIcons:
       - name: Discord
         url: https://discord.com/users/307774635204804608
+      - name: matrix
+        url: "https://matrix.to/#/@merded:matrix.merded.fun"
       - name: Twitter
         url: https://twitter.com/MerdedSpade
       - name: Telegram
