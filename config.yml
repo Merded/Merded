@@ -1,4 +1,4 @@
-baseURL: https://merded.fun/
+baseURL: https://merded.zip/
 languageCode: en-us
 title: Merededdo
 theme: PaperMod
@@ -10,12 +10,10 @@ params:
   socialIcons:
       - name: Discord
         url: https://discord.com/users/307774635204804608
-      - name: matrix
-        url: "https://matrix.to/#/@merded:matrix.merded.fun"
-      - name: Twitter
-        url: https://twitter.com/MerdedSpade
       - name: Telegram
         url: https://t.me/Merededdo
+      - name: Twitter
+        url: https://twitter.com/MerdedSpade
       - name: github
         url: https://github.com/Merded
       - name: email
