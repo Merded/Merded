@@ -12,8 +12,8 @@ params:
         url: https://discord.com/users/307774635204804608
       - name: Telegram
         url: https://t.me/Merededdo
-      - name: Twitter
-        url: https://twitter.com/MerdedSpade
+      - name: X
+        url: https://x.com/MerdedSpade
       - name: github
         url: https://github.com/Merded
       - name: email
