@@ -17,7 +17,7 @@ params:
       - name: github
         url: https://github.com/Merded
       - name: email
-        url: 'mailto:merdedok@gmail.com'
+        url: 'mailto:merededdo@skiff.com'
   description: "Yasu Ono"
   profileMode:
     enabled: true
