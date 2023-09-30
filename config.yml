@@ -18,7 +18,7 @@ params:
         url: https://github.com/Merded
       - name: email
         url: 'mailto:merededdo@skiff.com'
-  description: "Yasu Ono"
+  description: "Merededdo"
   profileMode:
     enabled: true
-    title: Yasu Ono
+    title: Merededdo
