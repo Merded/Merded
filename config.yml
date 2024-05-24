@@ -10,14 +10,14 @@ params:
   socialIcons:
       - name: email
         url: 'mailto:merdedok@gmail.com'
+      - name: github
+        url: https://github.com/Merded
       - name: Telegram
         url: https://t.me/Merededdo
       - name: Signal
         url: 'https://signal.me/#eu/SGAbTaGiEMQXjfR4L-ERxeHlnPRFnMqQumTnNy36Vr4_W1amN55OMZ08CEihn19Y'
       - name: Discord
         url: https://discord.com/users/307774635204804608
-      - name: github
-        url: https://github.com/Merded
       - name: X
         url: https://x.com/MerdedSpade
   description: "Merededdo"
